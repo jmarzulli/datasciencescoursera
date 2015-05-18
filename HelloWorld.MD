@@ -1,4 +1,1 @@
-## This is a markdown file# datasciencescoursera
-# datasciencescoursera
-# datasciencecoursera
-# datasciencescoursera
+## This is a markdown file
